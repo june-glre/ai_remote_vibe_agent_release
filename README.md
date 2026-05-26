@@ -5,7 +5,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/jun-young1993/ai_remote_vibe_agent_release)
 
 
-# > ⚠️ **The mobile application is currently under review on the Android and Apple App Store. Please stay tuned — it will be available soon!**
+# > 🎉 **The mobile application is now available on the Google Play Store and Apple App Store! Download it today!**
 
 # 🚀 AI Remote Vibe
 
@@ -80,12 +80,22 @@ After downloading:
   <img src="image/mobile_graphic_image.png" width="70%" />
 </p>
 
-The mobile app is available on both platforms:
+The mobile app is now available on both platforms:
 
-- iOS → App Store  
-- Android → Play Store  
+- iOS → [App Store](https://apps.apple.com/us/app/ai-remote-vibe/id6763061259)  
+- Android → [Play Store](https://play.google.com/store/apps/details?id=juny.ai_remote_vibe)  
 
-👉 You can download the iOS and Android apps from the Play Store and App Store.
+<p align="center">
+  <a href="https://apps.apple.com/us/app/ai-remote-vibe/id6763061259">
+    <img src="https://img.shields.io/badge/Download%20on%20the-App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=juny.ai_remote_vibe">
+    <img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+</p>
+
+👉 You can download the iOS and Android apps from the App Store and Play Store.
 
 ---
 
@@ -117,7 +127,10 @@ The mobile app is available on both platforms:
   <img src="image/playstore.png" width="60%" />
 </p>
 
-The mobile app can be downloaded from **Play Store and App Store for both iOS and Android devices**.
+The mobile app is available now on the **App Store and Play Store for both iOS and Android devices**.
+
+- 🍎 **iOS (App Store)**: https://apps.apple.com/us/app/ai-remote-vibe/id6763061259  
+- 🤖 **Android (Play Store)**: https://play.google.com/store/apps/details?id=juny.ai_remote_vibe  
 
 ---
 
@@ -145,7 +158,7 @@ The Windows version is **not code-signed yet**, so you may see a security warnin
 ## 📌 App Info
 
 - App Name: **AI Remote Vibe**  
-- Distribution: GitHub Releases  
+- Distribution: GitHub Releases (Desktop) / App Store & Play Store (Mobile)  
 - Platforms: Windows / macOS / iOS / Android  
 
 ---
