@@ -16,15 +16,18 @@
   <sub>Now available on the App Store & Google Play 🎉</sub>
 </p>
 
-<p align="center">
+
   <a href="https://apps.apple.com/us/app/ai-remote-vibe/id6763061259">
     <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="56" />
   </a>
-  &nbsp;&nbsp;
+
+</br>
+
+  
   <a href="https://play.google.com/store/apps/details?id=juny.ai_remote_vibe">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="56" />
   </a>
-</p>
+
 
 
 # 🚀 AI Remote Vibe
