@@ -5,7 +5,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/jun-young1993/ai_remote_vibe_agent_release)
 
 
-# > 🎉 **The mobile application is now available on the Google Play Store and Apple App Store! Download it today!**
+# 🎉 **The mobile application is now available on the Google Play Store and Apple App Store! Download it today!**
 
 <br/>
 
