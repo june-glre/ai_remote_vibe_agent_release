@@ -49,7 +49,8 @@
 
 <p align="center">
   <!-- Community -->
-  <img src="https://img.shields.io/github/contributors/june-glre/ai_remote_vibe_agent_release?style=flat-square" alt="Contributors" />
+  <img src="https://img.shields.io/github/commit-activity/m/june-glre/ai_remote_vibe_agent_release?style=flat-square&logo=github" alt="Commit Activity" />
+  <!-- <img src="https://img.shields.io/github/contributors/june-glre/ai_remote_vibe_agent_release?style=flat-square" alt="Contributors" /> -->
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" />
   <img src="https://img.shields.io/github/license/june-glre/ai_remote_vibe_agent_release?style=flat-square" alt="License" />
 </p>
